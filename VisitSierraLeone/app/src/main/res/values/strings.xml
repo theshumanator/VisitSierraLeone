@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Visit Sierra Leone</string>
+    <string name="biz_name">VISIT SIERRA LEONE LTD</string>
+    <string name="biz_header">Let us take you where the sun-kissed waters meet the might mountains!</string>
+    <string name="biz_footer">For the best experience, choose the best travel agency!</string>
+    <string name="phone">+232 25 200978</string>
+    <string name="email">service@visitsierraleone.org</string>
+    <string name="facebook">https://www.facebook.com/visitsierraleone</string>
+    <string name="address">28 Motor Main Road, Congo Cross, Freetown, Sierra Leone</string>
+</resources>
